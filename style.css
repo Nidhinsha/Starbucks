@@ -543,7 +543,7 @@ ul{
 }
 .p1{
     text-align: inherit;
-    padding-left: 410px;
+    padding-left: 315px;
     font-family: SoDoSans,Helvetica Neue,Helvetica,Arial,sans-serif;
     font-size: larger;
     padding-top: 70px;
@@ -551,7 +551,7 @@ ul{
 .p2{
     font-size: larger;
     text-align: -webkit-match-parent;
-    padding-left: 403px;
+    padding-left: 315px;
 }
 .footer1{
     background-color: white;
